@@ -5,8 +5,8 @@
 🧠 Correlations across genres, certificates, and runtime
 🌟 Top actors, directors, and blockbuster years
 
-Key tools: Pandas, Seaborn, Data Cleaning, Python
-Key lessons: Data wrangling is everything, .loc is your friend, and good plots need good questions!
+- Key tools: Pandas, Seaborn, Data Cleaning, Python
+- Key lessons: Data wrangling is everything, .loc is your friend, and good plots need good questions!
 
 ## 📈 Fun findings:
 - Biography films run the longest
